@@ -7,19 +7,19 @@
 </p>
 <!-- Profile badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=S-MILAD-J&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/S-MILAD-J?style=flat-square&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/S-MILAD-J?style=flat-square&logo=github" alt="Stars" />
 </p>
+
 <!-- About me code block -->
 ```python
 YOUR_USERNAME = {
-    "name": "YOUR_NAME",
-    "location": "YOUR_CITY, YOUR_COUNTRY",
-    "ai_ml": ["Deep Learning", "Neural Networks", "Computer Vision"],
-    "networking": ["TCP/IP", "SDN", "Network Telemetry", "Packet Analysis"],
-    "currently_learning": "YOUR_CURRENT_FOCUS",
-    "philosophy": "YOUR_PERSONAL_MOTTO_HERE",
+    "name": "Milad Jahanshahi",
+    "location": "Tabriz,Iran",
+    "ai_ml": ["Deep Learning", "Neural Networks", "Computer Vision", "Edge AI"],
+    "currently_learning": "PPML",
+    "philosophy": "Nothing Fancy",
 }
 ```
 
@@ -44,9 +44,9 @@ YOUR_USERNAME = {
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog HDL-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 
@@ -60,13 +60,14 @@ YOUR_USERNAME = {
 
 ---
 
-## 🏆 Trophies
-
+🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
-
----
+🥇 Competitive Programming — ICPC
+PlaceContestDateVenue🥈 12thACM-ICPC West Asia Regionals Tehran 2024Dec. 2024Sharif University26thACM-ICPC West Asia Regionals Tehran 2023May. 2024Sharif University🥉 8thTabCode Programming Contest (ICPC-style)Nov. 2024University of Tabriz🎓 ParticipantACPC, Amirkabir University Programming Contest (ICPC-style)Nov. 2023Tehran Polytechnic
+🎖️ National Collegiate Scientific Olympiad
+PlaceContestYear43rdNational Collegiate Scientific Olympiad — Iran2025
 
 ## 📊 GitHub Stats
 
