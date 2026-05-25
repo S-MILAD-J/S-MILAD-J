@@ -14,7 +14,7 @@
 
 <!-- About me code block -->
 ```python
-YOUR_USERNAME = {
+S-MILAD-J = {
     "name": "Milad Jahanshahi",
     "location": "Tabriz,Iran",
     "ai_ml": ["Deep Learning", "Neural Networks", "Computer Vision", "Edge AI"],
@@ -62,7 +62,7 @@ YOUR_USERNAME = {
 
 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=S-MILAD-J&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
 </p>
 🥇 Competitive Programming — ICPC
 PlaceContestDateVenue🥈 12thACM-ICPC West Asia Regionals Tehran 2024Dec. 2024Sharif University26thACM-ICPC West Asia Regionals Tehran 2023May. 2024Sharif University🥉 8thTabCode Programming Contest (ICPC-style)Nov. 2024University of Tabriz🎓 ParticipantACPC, Amirkabir University Programming Contest (ICPC-style)Nov. 2023Tehran Polytechnic
